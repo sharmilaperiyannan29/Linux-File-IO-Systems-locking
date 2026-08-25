@@ -90,7 +90,7 @@ int main (int argc, char* argv[])
 
 ## OUTPUT
 
-![image](https://github.com/user-attachments/assets/3780ba27-3cbd-46fb-8c7b-bb960395a583)
+<img width="1631" height="964" alt="image" src="https://github.com/user-attachments/assets/f3023cbe-b4f6-4569-8d7d-b61269d197df" />
 ![image](https://github.com/user-attachments/assets/90eddb35-bb31-43a7-a393-c234d66753f3)
 ![image](https://github.com/user-attachments/assets/0821307f-014c-4ffb-9983-f1f3ba71c91d)
 
