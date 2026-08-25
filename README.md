@@ -91,8 +91,10 @@ int main (int argc, char* argv[])
 ## OUTPUT
 
 <img width="1631" height="964" alt="image" src="https://github.com/user-attachments/assets/f3023cbe-b4f6-4569-8d7d-b61269d197df" />
-![image](https://github.com/user-attachments/assets/90eddb35-bb31-43a7-a393-c234d66753f3)
-![image](https://github.com/user-attachments/assets/0821307f-014c-4ffb-9983-f1f3ba71c91d)
+<img width="1238" height="1271" alt="image" src="https://github.com/user-attachments/assets/e3b28c2b-e199-42b3-970a-47cab3bf3b7c" />
+<img width="1254" height="1254" alt="image" src="https://github.com/user-attachments/assets/3536d6e2-feb3-4b28-8688-0c06d3d5b0fd" />
+
+
 
 
 
